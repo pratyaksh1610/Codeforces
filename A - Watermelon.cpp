@@ -17,7 +17,7 @@ int main()
 }
 
 /*
-weight of waetrmelon  - w kg
+weight of watermelon  - w kg
 ?divide weight in even number of kilos 
 each part even 
 Ex. 
